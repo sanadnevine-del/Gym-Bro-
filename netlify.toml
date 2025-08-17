@@ -1,0 +1,7 @@
+[build]
+  base = ""            # no subfolder
+  publish = "."        # serve files from root
+  command = ""         # no build command
+
+[functions]
+  directory = ""       # no functions folder
